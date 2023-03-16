@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "824056116535",
+    "project_id": "fir-b2082",
+    "storage_bucket": "fir-b2082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824056116535:android:adffe6429c3d5bedd096b2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824056116535-5v1e0g6ebt8ba3839a1fakt8h7h6tp0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8BjBwt43vP8-UqCjqvfHKtVgmEsuYzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824056116535-5v1e0g6ebt8ba3839a1fakt8h7h6tp0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824056116535:android:0508738a627eeea0d096b2",
+        "android_client_info": {
+          "package_name": "com.wcrop.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824056116535-5v1e0g6ebt8ba3839a1fakt8h7h6tp0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8BjBwt43vP8-UqCjqvfHKtVgmEsuYzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824056116535-5v1e0g6ebt8ba3839a1fakt8h7h6tp0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
